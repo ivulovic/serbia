@@ -1,0 +1,892 @@
+[
+  {
+    "name": "Александровац",
+    "latitude": 43.4605,
+    "longitude": 21.0490
+  },
+  {
+    "name": "Алексинац",
+    "latitude": 43.5410,
+    "longitude": 21.7184
+  },
+  {
+    "name": "Аранђеловац",
+    "latitude": 44.3082,
+    "longitude": 20.5563
+  },
+  {
+    "name": "Ариље",
+    "latitude": 43.7533,
+    "longitude": 20.0991
+  },
+  {
+    "name": "Бабушница",
+    "latitude": 43.0638,
+    "longitude": 22.4062
+  },
+  {
+    "name": "Бајина Башта",
+    "latitude": 43.9705,
+    "longitude": 19.5649
+  },
+  {
+    "name": "Баточина",
+    "latitude": 44.1477,
+    "longitude": 21.0770
+  },
+  {
+    "name": "Бела Паланка",
+    "latitude": 43.2159,
+    "longitude": 22.3169
+  },
+  {
+    "name": "Блаце",
+    "latitude": 43.2982,
+    "longitude": 21.2934
+  },
+  {
+    "name": "Богатић",
+    "latitude": 44.8561,
+    "longitude": 19.4865
+  },
+  {
+    "name": "Бојник",
+    "latitude": 43.0174,
+    "longitude": 21.7228
+  },
+  {
+    "name": "Бољевац",
+    "latitude": 43.8371,
+    "longitude": 21.9598
+  },
+  {
+    "name": "Бор",
+    "latitude": 44.0699,
+    "longitude": 22.0985
+  },
+  {
+    "name": "Босилеград",
+    "latitude": 42.5085,
+    "longitude": 22.4649
+  },
+  {
+    "name": "Брус",
+    "latitude": 43.3840,
+    "longitude": 21.0315
+  },
+  {
+    "name": "Бујановац",
+    "latitude": 42.4609,
+    "longitude": 21.7662
+  },
+  {
+    "name": "Ваљево",
+    "latitude": 44.2743,
+    "longitude": 19.8903
+  },
+  {
+    "name": "Варварин",
+    "latitude": 43.7218,
+    "longitude": 21.3564
+  },
+  {
+    "name": "Велика Плана",
+    "latitude": 44.3359,
+    "longitude": 21.0771
+  },
+  {
+    "name": "Велико Градиште",
+    "latitude": 44.7495,
+    "longitude": 21.5058
+  },
+  {
+    "name": "Владимирци",
+    "latitude": 44.6179,
+    "longitude": 19.7694
+  },
+  {
+    "name": "Владичин Хан",
+    "latitude": 42.7095,
+    "longitude": 22.0625
+  },
+  {
+    "name": "Власотинце",
+    "latitude": 42.9661,
+    "longitude": 22.1309
+  },
+  {
+    "name": "Врање",
+    "latitude": 42.5450,
+    "longitude": 21.9003
+  },
+  {
+    "name": "Врњачка Бања",
+    "latitude": 43.6251,
+    "longitude": 20.8942
+  },
+  {
+    "name": "Гаџин Хан",
+    "latitude": 43.2271,
+    "longitude": 22.0309
+  },
+  {
+    "name": "Голубац",
+    "latitude": 44.6380,
+    "longitude": 21.6773
+  },
+  {
+    "name": "Горњи Милановац",
+    "latitude": 44.0207,
+    "longitude": 20.4633
+  },
+  {
+    "name": "Деспотовац",
+    "latitude": 44.0955,
+    "longitude": 21.4366
+  },
+  {
+    "name": "Димитровград",
+    "latitude": 42.0545,
+    "longitude": 25.5945
+  },
+  {
+    "name": "Дољевац",
+    "latitude": 43.2043,
+    "longitude": 21.8319
+  },
+  {
+    "name": "Жабари",
+    "latitude": 44.3643,
+    "longitude": 21.2045
+  },
+  {
+    "name": "Жагубица",
+    "latitude": 44.1674,
+    "longitude": 21.8619
+  },
+  {
+    "name": "Житорађа",
+    "latitude": 43.1896,
+    "longitude": 21.7094
+  },
+  {
+    "name": "Зајечар",
+    "latitude": 43.9015,
+    "longitude": 22.2738
+  },
+  {
+    "name": "Ивањица",
+    "latitude": 43.5694,
+    "longitude": 20.2431
+  },
+  {
+    "name": "Кладово",
+    "latitude": 44.6036,
+    "longitude": 22.6099
+  },
+  {
+    "name": "Кнић",
+    "latitude": 43.9267,
+    "longitude": 20.7214
+  },
+  {
+    "name": "Књажевац",
+    "latitude": 43.5661,
+    "longitude": 22.2467
+  },
+  {
+    "name": "Косјерић",
+    "latitude": 44.0033,
+    "longitude": 19.9102
+  },
+  {
+    "name": "Коцељева",
+    "latitude": 44.4693,
+    "longitude": 19.8223
+  },
+  {
+    "name": "Крагујевац",
+    "latitude": 44.0128,
+    "longitude": 20.9114
+  },
+  {
+    "name": "Краљево",
+    "latitude": 43.7238,
+    "longitude": 20.6873
+  },
+  {
+    "name": "Крупањ",
+    "latitude": 44.3623,
+    "longitude": 19.3630
+  },
+  {
+    "name": "Крушевац",
+    "latitude": 43.5763,
+    "longitude": 21.3336
+  },
+  {
+    "name": "Куршумлија",
+    "latitude": 43.1405,
+    "longitude": 21.2734
+  },
+  {
+    "name": "Кучево",
+    "latitude": 44.4767,
+    "longitude": 21.6743
+  },
+  {
+    "name": "Лајковац",
+    "latitude": 44.3669,
+    "longitude": 20.1617
+  },
+  {
+    "name": "Лебане",
+    "latitude": 42.9203,
+    "longitude": 21.7422
+  },
+  {
+    "name": "Лесковац",
+    "latitude": 42.9964,
+    "longitude": 21.9440
+  },
+  {
+    "name": "Лозница",
+    "latitude": 44.5313,
+    "longitude": 19.2068
+  },
+  {
+    "name": "Лучани",
+    "latitude": 43.8601,
+    "longitude": 20.1366
+  },
+  {
+    "name": "Љиг",
+    "latitude": 44.2251,
+    "longitude": 20.2398
+  },
+  {
+    "name": "Љубовија",
+    "latitude": 44.1884,
+    "longitude": 19.3777
+  },
+  {
+    "name": "Мајданпек",
+    "latitude": 44.4192,
+    "longitude": 21.9495
+  },
+  {
+    "name": "Мали Зворник",
+    "latitude": 44.3789,
+    "longitude": 19.1177
+  },
+  {
+    "name": "Мало Црниће",
+    "latitude": 44.5550,
+    "longitude": 21.2887
+  },
+  {
+    "name": "Медвеђа",
+    "latitude": 42.8414,
+    "longitude": 21.5766
+  },
+  {
+    "name": "Мерошина",
+    "latitude": 43.2839,
+    "longitude": 21.7219
+  },
+  {
+    "name": "Мионица",
+    "latitude": 44.2506,
+    "longitude": 20.0799
+  },
+  {
+    "name": "Неготин",
+    "latitude": 44.2289,
+    "longitude": 22.5311
+  },
+  {
+    "name": "Нова Варош",
+    "latitude": 43.4677,
+    "longitude": 19.8126
+  },
+  {
+    "name": "Нови Пазар",
+    "latitude": 43.1407,
+    "longitude": 20.5214
+  },
+  {
+    "name": "Осечина",
+    "latitude": 44.3733,
+    "longitude": 19.5978
+  },
+  {
+    "name": "Параћин",
+    "latitude": 43.8586,
+    "longitude": 21.4039
+  },
+  {
+    "name": "Петровац на Млави",
+    "latitude": 44.3734,
+    "longitude": 21.4069
+  },
+  {
+    "name": "Пирот",
+    "latitude": 43.1557,
+    "longitude": 22.5857
+  },
+  {
+    "name": "Пожаревац",
+    "latitude": 44.6208,
+    "longitude": 21.1842
+  },
+  {
+    "name": "Пожега",
+    "latitude": 43.8461,
+    "longitude": 20.0356
+  },
+  {
+    "name": "Прешево",
+    "latitude": 42.3092,
+    "longitude": 21.6499
+  },
+  {
+    "name": "Прибој",
+    "latitude": 43.5828,
+    "longitude": 19.5267
+  },
+  {
+    "name": "Пријепоље",
+    "latitude": 43.3894,
+    "longitude": 19.6464
+  },
+  {
+    "name": "Прокупље",
+    "latitude": 43.2368,
+    "longitude": 21.5916
+  },
+  {
+    "name": "Ражањ",
+    "latitude": 43.6703,
+    "longitude": 21.5580
+  },
+  {
+    "name": "Рача",
+    "latitude": 44.2327,
+    "longitude": 20.9791
+  },
+  {
+    "name": "Рашка",
+    "latitude": 43.2896,
+    "longitude": 20.6161
+  },
+  {
+    "name": "Рековац",
+    "latitude": 43.8561,
+    "longitude": 21.0936
+  },
+  {
+    "name": "Јагодина",
+    "latitude": 43.9777,
+    "longitude": 21.2573
+  },
+  {
+    "name": "Свилајнац",
+    "latitude": 44.2498,
+    "longitude": 21.2008
+  },
+  {
+    "name": "Сврљиг",
+    "latitude": 43.4146,
+    "longitude": 22.1271
+  },
+  {
+    "name": "Сјеница",
+    "latitude": 43.2741,
+    "longitude": 20.0032
+  },
+  {
+    "name": "Смедерево",
+    "latitude": 44.6659,
+    "longitude": 20.9335
+  },
+  {
+    "name": "Смедеревска Паланка",
+    "latitude": 44.3672,
+    "longitude": 20.9605
+  },
+  {
+    "name": "Сокобања",
+    "latitude": 43.6397,
+    "longitude": 21.8787
+  },
+  {
+    "name": "Сурдулица",
+    "latitude": 42.6907,
+    "longitude": 22.1720
+  },
+  {
+    "name": "Ужице",
+    "latitude": 43.8556,
+    "longitude": 19.8425
+  },
+  {
+    "name": "Топола",
+    "latitude": 44.2480,
+    "longitude": 20.6849
+  },
+  {
+    "name": "Трговиште",
+    "latitude": 42.3607,
+    "longitude": 22.0655
+  },
+  {
+    "name": "Трстеник",
+    "latitude": 43.6174,
+    "longitude": 21.0023
+  },
+  {
+    "name": "Тутин",
+    "latitude": 42.9900,
+    "longitude": 20.3336
+  },
+  {
+    "name": "Ћићевац",
+    "latitude": 43.7213,
+    "longitude": 21.4437
+  },
+  {
+    "name": "Ћуприја",
+    "latitude": 43.9255,
+    "longitude": 21.3748
+  },
+  {
+    "name": "Уб",
+    "latitude": 44.4492,
+    "longitude": 20.0651
+  },
+  {
+    "name": "Црна Трава",
+    "latitude": 42.8072,
+    "longitude": 22.3030
+  },
+  {
+    "name": "Чајетина",
+    "latitude": 43.7505,
+    "longitude": 19.7142
+  },
+  {
+    "name": "Чачак",
+    "latitude": 43.8914,
+    "longitude": 20.3502
+  },
+  {
+    "name": "Шабац",
+    "latitude": 44.7489,
+    "longitude": 19.6908
+  },
+  {
+    "name": "Лапово",
+    "latitude": 44.1838,
+    "longitude": 21.0720
+  },
+  {
+    "name": "Костолац",
+    "latitude": 44.7220,
+    "longitude": 21.1751
+  },
+  {
+    "name": "Врањска Бања",
+    "latitude": 42.5530,
+    "longitude": 21.9940
+  },
+  {
+    "name": "Севојно",
+    "latitude": 43.8473,
+    "longitude": 19.8966
+  },
+  {
+    "name": "Град Београд",
+    "latitude": 44.5850,
+    "longitude": 20.3964
+  },
+  {
+    "name": "Град Ниш",
+    "latitude": 43.3209,
+    "longitude": 21.8958
+  },
+  {
+    "name": "Ада",
+    "latitude": 45.8155,
+    "longitude": 20.1207
+  },
+  {
+    "name": "Алибунар",
+    "latitude": 45.0778,
+    "longitude": 20.9678
+  },
+  {
+    "name": "Апатин",
+    "latitude": 45.6729,
+    "longitude": 18.9843
+  },
+  {
+    "name": "Бач",
+    "latitude": 45.3952,
+    "longitude": 19.2371
+  },
+  {
+    "name": "Бачка Паланка",
+    "latitude": 45.2497,
+    "longitude": 19.3968
+  },
+  {
+    "name": "Бачка Топола",
+    "latitude": 45.8144,
+    "longitude": 19.6380
+  },
+  {
+    "name": "Бачки Петровац",
+    "latitude": 45.3568,
+    "longitude": 19.6173
+  },
+  {
+    "name": "Бела Црква",
+    "latitude": 44.9018,
+    "longitude": 21.4233
+  },
+  {
+    "name": "Беочин",
+    "latitude": 45.1968,
+    "longitude": 19.7221
+  },
+  {
+    "name": "Бечеј",
+    "latitude": 45.6138,
+    "longitude": 20.0460
+  },
+  {
+    "name": "Вршац",
+    "latitude": 45.1182,
+    "longitude": 21.2945
+  },
+  {
+    "name": "Жабаљ",
+    "latitude": 45.3941,
+    "longitude": 20.1139
+  },
+  {
+    "name": "Житиште",
+    "latitude": 45.4846,
+    "longitude": 20.5508
+  },
+  {
+    "name": "Зрењанин",
+    "latitude": 45.3816,
+    "longitude": 20.3686
+  },
+  {
+    "name": "Инђија",
+    "latitude": 45.0485,
+    "longitude": 20.0808
+  },
+  {
+    "name": "Ириг",
+    "latitude": 45.1012,
+    "longitude": 19.8617
+  },
+  {
+    "name": "Кањижа",
+    "latitude": 46.0616,
+    "longitude": 20.0470
+  },
+  {
+    "name": "Кикинда",
+    "latitude": 45.8273,
+    "longitude": 20.4615
+  },
+  {
+    "name": "Ковачица",
+    "latitude": 45.1072,
+    "longitude": 20.6596
+  },
+  {
+    "name": "Ковин",
+    "latitude": 44.7396,
+    "longitude": 20.9778
+  },
+  {
+    "name": "Кула",
+    "latitude": 45.6111,
+    "longitude": 19.5361
+  },
+  {
+    "name": "Мали Иђош",
+    "latitude": 45.7121,
+    "longitude": 19.6575
+  },
+  {
+    "name": "Нова Црња",
+    "latitude": 45.6486,
+    "longitude": 20.5691
+  },
+  {
+    "name": "Нови Бечеј",
+    "latitude": 45.6011,
+    "longitude": 20.1415
+  },
+  {
+    "name": "Нови Кнежевац",
+    "latitude": 46.0245,
+    "longitude": 20.1143
+  },
+  {
+    "name": "Нови Сад",
+    "latitude": 45.2671,
+    "longitude": 19.8335
+  },
+  {
+    "name": "Опово",
+    "latitude": 45.0476,
+    "longitude": 20.4333
+  },
+  {
+    "name": "Оџаци",
+    "latitude": 45.5147,
+    "longitude": 19.2763
+  },
+  {
+    "name": "Панчево",
+    "latitude": 44.8740,
+    "longitude": 20.6476
+  },
+  {
+    "name": "Пећинци",
+    "latitude": 44.9047,
+    "longitude": 19.9697
+  },
+  {
+    "name": "Пландиште",
+    "latitude": 45.2371,
+    "longitude": 21.1049
+  },
+  {
+    "name": "Рума",
+    "latitude": 45.0079,
+    "longitude": 19.8226
+  },
+  {
+    "name": "Сента",
+    "latitude": 45.9260,
+    "longitude": 20.0781
+  },
+  {
+    "name": "Сечањ",
+    "latitude": 45.3666,
+    "longitude": 20.7724
+  },
+  {
+    "name": "Сомбор",
+    "latitude": 45.7733,
+    "longitude": 19.1151
+  },
+  {
+    "name": "Србобран",
+    "latitude": 45.7733,
+    "longitude": 19.1151
+  },
+  {
+    "name": "Сремска Митровица",
+    "latitude": 44.9795,
+    "longitude": 19.6210
+  },
+  {
+    "name": "Сремски Карловци",
+    "latitude": 45.2037,
+    "longitude": 19.9365
+  },
+  {
+    "name": "Стара Пазова",
+    "latitude": 44.9856,
+    "longitude": 20.1569
+  },
+  {
+    "name": "Суботица",
+    "latitude": 46.1005,
+    "longitude": 19.6651
+  },
+  {
+    "name": "Темерин",
+    "latitude": 45.4157,
+    "longitude": 19.8931
+  },
+  {
+    "name": "Тител",
+    "latitude": 45.2164,
+    "longitude": 20.2832
+  },
+  {
+    "name": "Врбас",
+    "latitude": 45.5702,
+    "longitude": 19.6450
+  },
+  {
+    "name": "Чока",
+    "latitude": 45.9469,
+    "longitude": 20.1591
+  },
+  {
+    "name": "Шид",
+    "latitude": 45.1224,
+    "longitude": 19.2209
+  },
+  {
+    "name": "Петроварадин",
+    "latitude": 45.2361,
+    "longitude": 19.8862
+  },
+  {
+    "name": "Витина",
+    "latitude": 42.328,
+    "longitude": 21.351
+  },
+  {
+    "name": "Вучитрн",
+    "latitude": 42.834,
+    "longitude": 20.985
+  },
+  {
+    "name": "Глоговац",
+    "latitude": 43.2564,
+    "longitude": 22.1988
+  },
+  {
+    "name": "Гњилане",
+    "latitude": 42.4635,
+    "longitude": 21.4694
+  },
+  {
+    "name": "Дечани",
+    "latitude": 42.5403,
+    "longitude": 20.2883
+  },
+  {
+    "name": "Ђаковица",
+    "latitude": 42.3844,
+    "longitude": 20.4285
+  },
+  {
+    "name": "Зубин Поток",
+    "latitude": 42.9148,
+    "longitude": 20.6897
+  },
+  {
+    "name": "Исток",
+    "latitude": 42.7820,
+    "longitude": 20.4911
+  },
+  {
+    "name": "Качаник",
+    "latitude": 42.2279,
+    "longitude": 21.2569
+  },
+  {
+    "name": "Клина",
+    "latitude": 42.6193,
+    "longitude": 20.5782
+  },
+  {
+    "name": "Косово Поље",
+    "latitude": 42.6374,
+    "longitude": 21.0931
+  },
+  {
+    "name": "Косовска Каменица",
+    "latitude": 42.5876,
+    "longitude": 21.5737
+  },
+  {
+    "name": "Лепосавић",
+    "latitude": 43.1016,
+    "longitude": 20.8011
+  },
+  {
+    "name": "Липљан",
+    "latitude": 42.5258,
+    "longitude": 21.1225
+  },
+  {
+    "name": "Ново Брдо",
+    "latitude": 42.6088,
+    "longitude": 21.4406
+  },
+  {
+    "name": "Обилић",
+    "latitude": 42.6869,
+    "longitude": 21.0670
+  },
+  {
+    "name": "Ораховац",
+    "latitude": 42.3998,
+    "longitude": 20.6528
+  },
+  {
+    "name": "Пећ",
+    "latitude": 42.6593,
+    "longitude": 20.2887
+  },
+  {
+    "name": "Подујево",
+    "latitude": 42.9108,
+    "longitude": 21.1956
+  },
+  {
+    "name": "Призрен",
+    "latitude": 42.2171,
+    "longitude": 20.7436
+  },
+  {
+    "name": "Приштина",
+    "latitude": 42.6629,
+    "longitude": 21.1655
+  },
+  {
+    "name": "Србица",
+    "latitude": 42.7476,
+    "longitude": 20.7892
+  },
+  {
+    "name": "Сува Река",
+    "latitude": 42.3625,
+    "longitude": 20.8319
+  },
+  {
+    "name": "Косовска Митровица",
+    "latitude": 42.8914,
+    "longitude": 20.8660
+  },
+  {
+    "name": "Урошевац",
+    "latitude": 42.3702,
+    "longitude": 21.1483
+  },
+  {
+    "name": "Штимље",
+    "latitude": 42.4329,
+    "longitude": 21.0401
+  },
+  {
+    "name": "Штрпце",
+    "latitude": 42.2406,
+    "longitude": 21.0259
+  },
+  {
+    "name": "Гора",
+    "latitude": 42.005,
+    "longitude": 20.653
+  },
+  {
+    "name": "Звечан",
+    "latitude": 42.9108,
+    "longitude": 20.8386
+  }
+]
